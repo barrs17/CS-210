@@ -1,1 +1,2 @@
 # CS-210
+During the second project of the semester, we solved a grocery store stock problem. I had the most fun during this project because of the different skills I have picked up along the semester. it also related to other classes mroe than any other assignment I did this semester. I always feel as though my code is far too long and complex and could be shortened. My comments are usually lacking as well just as I barely show my work in math. To ensure that my program ran smoothly, I practiced industry standard coding and functionability.
